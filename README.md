@@ -1,16 +1,120 @@
-## Hi there 👋
+<!-- 🌆 HEADER GIF -->
 
-<!--
-**Majd-sud/Majd-sud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;MAJD+AL-SAHAFI;SOFTWARE+ENGINEER+IN+PROGRESS;ENTERING+CYBERSPACE..." />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```diff
++ STATUS: ONLINE
++ USER: MAJD AL-SAHAFI
++ SYSTEM: CYBERPUNK DEV ENVIRONMENT
++ LOCATION: SAUDI ARABIA 🇸🇦
+```
+
+---
+
+## 🌌 >> PROFILE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60%" />
+</p>
+
+```yaml
+name: Majd Al-Sahafi
+education: Software Engineering Student @ University of Jeddah
+focus:
+  - Artificial Intelligence 🤖
+  - Full-Stack Development 🌐
+  - Futuristic UI/UX Design 🌆
+mindset:
+  - Always learning
+  - Building with purpose
+  - Designing beyond the ordinary
+```
+
+---
+
+## ⚡ >> CURRENT STATE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="55%" />
+</p>
+
+```diff
++ Strengthening core software engineering skills
++ Exploring AI-powered applications
++ Building interactive and modern web systems
++ Experimenting with neon / cyberpunk UI design
+```
+
+---
+
+## 🧠 >> TECH STACK
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" />
+</p>
+
+![HTML](https://img.shields.io/badge/HTML-FF5F1F?style=for-the-badge\&logo=html5\&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-00F7FF?style=for-the-badge\&logo=css3\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-00F7FF?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge\&logo=node.js\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge\&logo=firebase\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-007FFF?style=for-the-badge\&logo=mysql\&logoColor=black)
+
+---
+
+## 📊 >> SYSTEM ANALYTICS
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="60%" />
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majd-sud\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Majd-sud\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🎯 >> MISSION
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="55%" />
+</p>
+
+```diff
++ Become an elite software engineer
++ Build intelligent and impactful systems
++ Merge AI with modern web technologies
++ Design immersive digital experiences
+```
+
+---
+
+## 📡 >> CONNECT
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50%" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/majd-alsahafi-/)
+
+[![Email](https://img.shields.io/badge/Email-FF007F?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:majdalsahafi3@gmail.com)
+
+---
+
+```diff
++ SYSTEM READY...
++ AWAITING NEXT DEPLOYMENT 🚀
+```
+
+<!-- 🌆 FOOTER GIF -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1oDvHW440hFiouBBwy/giphy.gif" width="100%" />
+</p>
