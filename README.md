@@ -1,7 +1,7 @@
 <!-- 🌆 HEADER GIF -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+
 </p>
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;MAJD+AL-SAHAFI;SOFTWARE+ENGINEER+IN+PROGRESS;ENTERING+CYBERSPACE..." />
