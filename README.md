@@ -30,10 +30,7 @@ focus:
   - Artificial Intelligence 🤖
   - Full-Stack Development 🌐
   - Futuristic UI/UX Design 🌆
-mindset:
-  - Always learning
-  - Building with purpose
-  - Designing beyond the ordinary
+
 ```
 
 ---
@@ -48,7 +45,6 @@ mindset:
 + Strengthening core software engineering skills
 + Exploring AI-powered applications
 + Building interactive and modern web systems
-+ Experimenting with neon / cyberpunk UI design
 ```
 
 ---
@@ -56,7 +52,7 @@ mindset:
 ## 🧠 >> TECH STACK
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" />
+
 </p>
 
 ![HTML](https://img.shields.io/badge/HTML-FF5F1F?style=for-the-badge\&logo=html5\&logoColor=black)
@@ -99,22 +95,10 @@ mindset:
 ## 📡 >> CONNECT
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50%" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/majd-alsahafi-/)
 
 [![Email](https://img.shields.io/badge/Email-FF007F?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:majdalsahafi3@gmail.com)
 
----
 
-```diff
-+ SYSTEM READY...
-+ AWAITING NEXT DEPLOYMENT 🚀
-```
-
-<!-- 🌆 FOOTER GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1oDvHW440hFiouBBwy/giphy.gif" width="100%" />
-</p>
