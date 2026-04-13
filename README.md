@@ -68,7 +68,6 @@ focus:
 ## 📊 >> SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="60%" />
 </p>
 
 ![Streak](https://streak-stats.demolab.com?user=Majd-sud\&theme=tokyonight\&hide_border=true)
