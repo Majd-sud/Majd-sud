@@ -74,20 +74,6 @@ focus:
 
 ---
 
-## 🎯 >> MISSION
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="55%" />
-</p>
-
-```diff
-+ Become an elite software engineer
-+ Build intelligent and impactful systems
-+ Merge AI with modern web technologies
-+ Design immersive digital experiences
-```
-
----
 
 ## 📡 >> CONNECT
 
