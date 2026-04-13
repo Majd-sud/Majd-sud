@@ -71,8 +71,6 @@ focus:
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="60%" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majd-sud\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com?user=Majd-sud\&theme=tokyonight\&hide_border=true)
 
 ---
