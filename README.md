@@ -6,26 +6,26 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=F472B6&center=true&vCenter=true&width=800&height=45&lines=Software+Engineer;build+%2F+learn+%2F+improve"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=F472B6&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer;build+%2F+learn+%2F+improve"
   alt="Software Engineer"
 />
 
 <br>
 
 <a href="https://my-portfolio-rho-navy.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=C084FC&color=F9A8D4" alt="Portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFF7FB?style=for-the-badge&logo=vercel&logoColor=C084FC" alt="Portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/majd-alsahafi-/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=C084FC&color=F9A8D4" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-FFF7FB?style=for-the-badge&logo=linkedin&logoColor=F472B6" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/Majd-sud">
-  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=C084FC&color=F9A8D4" alt="GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-FFF7FB?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub">
 </a>
 
 <a href="https://drive.google.com/file/d/1HIff9_C9sW1wrHdKjG7zAv_OWp-qT7jz/view?usp=sharing">
-  <img src="https://img.shields.io/badge/RESUME-FFFFFF?style=for-the-badge&logo=googledrive&logoColor=C084FC&color=F9A8D4" alt="Resume">
+  <img src="https://img.shields.io/badge/RESUME-FFF7FB?style=for-the-badge&logo=googledrive&logoColor=F472B6" alt="Resume">
 </a>
 
 </div>
@@ -91,29 +91,41 @@ engineering:
 
 ## `tech_stack`
 
-<div align="center">
-
 ### Languages
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart&theme=light" alt="Languages">
 
-<br><br>
+</div>
+
+<br>
 
 ### Web & Backend
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=django,nodejs,express,react,redux,html,css,flutter&theme=light" alt="Web and Backend">
 
-<br><br>
+</div>
+
+<br>
 
 ### Data
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" alt="Data and Databases">
+<div align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" alt="Databases">
+
+</div>
+
+<br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=light" alt="Engineering Tools">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=light" alt="Tools">
 
 </div>
 
@@ -124,13 +136,13 @@ engineering:
 ```cpp
 struct CurrentStatus {
     std::string learning  = "better software design";
-    std::string building  = "small practical projects";
+    std::string building  = "practical software";
     std::string improving = "problem solving";
     std::string exploring = "new technologies";
 };
 ```
 
-I am currently focused on strengthening my fundamentals, building more complete projects, and becoming more comfortable designing software beyond just making it work.
+I'm currently focused on strengthening my fundamentals, building more complete applications, and becoming more comfortable designing software beyond just making it work.
 
 ---
 
@@ -148,31 +160,42 @@ I am currently focused on strengthening my fundamentals, building more complete 
 
 ---
 
-## `github_stats`
+## `currently_exploring`
+
+```python
+areas = [
+    "backend engineering",
+    "API design",
+    "system design",
+    "software testing",
+    "machine learning",
+    "DevOps",
+    "clean architecture"
+]
+
+for area in areas:
+    learn(area)
+    build(area)
+    improve()
+```
+
+---
+
+## `github_activity`
 
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Majd-sud&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C084FC&text_color=6B7280&icon_color=F472B6"
-  alt="GitHub Statistics"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Majd-sud&hide_border=true&background=FFFFFF&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=F472B6&currStreakNum=A855F7&sideNums=A855F7&dates=9CA3AF"
+  width="58%"
+  alt="GitHub Streak"
 />
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majd-sud&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C084FC&text_color=6B7280"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
-  width="97%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Majd-sud&bg_color=ffffff&color=c084fc&line=f472b6&point=a855f7&area=true&area_color=fce7f3&hide_border=true&custom_title=Contribution%20Activity"
+  width="97%"
   alt="GitHub Contribution Activity"
 />
 
@@ -185,19 +208,31 @@ I am currently focused on strengthening my fundamentals, building more complete 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/majd-alsahafi-/">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=C084FC&color=F9A8D4" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-FFF7FB?style=for-the-badge&logo=linkedin&logoColor=C084FC"
+    alt="LinkedIn"
+  >
 </a>
 
 <a href="https://my-portfolio-rho-navy.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=vercel&logoColor=C084FC&color=F9A8D4" alt="Portfolio">
+  <img
+    src="https://img.shields.io/badge/Portfolio-FFF7FB?style=for-the-badge&logo=vercel&logoColor=F472B6"
+    alt="Portfolio"
+  >
 </a>
 
 <a href="https://github.com/Majd-sud">
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=C084FC&color=F9A8D4" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GitHub-FFF7FB?style=for-the-badge&logo=github&logoColor=C084FC"
+    alt="GitHub"
+  >
 </a>
 
 <a href="https://drive.google.com/file/d/1HIff9_C9sW1wrHdKjG7zAv_OWp-qT7jz/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat-square&logo=googledrive&logoColor=C084FC&color=F9A8D4" alt="Resume">
+  <img
+    src="https://img.shields.io/badge/Resume-FFF7FB?style=for-the-badge&logo=googledrive&logoColor=F472B6"
+    alt="Resume"
+  >
 </a>
 
 <br><br>
@@ -208,7 +243,7 @@ open_to = [
   "collaboration",
   "graduate opportunities",
   "interesting problems"
-]
+];
 ```
 
 </div>
