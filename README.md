@@ -1,108 +1,214 @@
 <div align="center">
 
-Majd Alsahafi
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&height=70&lines=Majd+Alsahafi"
+  alt="Majd Alsahafi"
+/>
 
-Software Engineer
-
-Building things, learning as I go, and trying to get a little better with every project.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=F472B6&center=true&vCenter=true&width=800&height=45&lines=Software+Engineer;build+%2F+learn+%2F+improve"
+  alt="Software Engineer"
+/>
 
 <br>
 
 <a href="https://my-portfolio-rho-navy.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF8FBD?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=C084FC&color=F9A8D4" alt="Portfolio">
 </a>
+
 <a href="https://www.linkedin.com/in/majd-alsahafi-/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF8FBD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=C084FC&color=F9A8D4" alt="LinkedIn">
 </a>
+
 <a href="https://github.com/Majd-sud">
-  <img src="https://img.shields.io/badge/GitHub-FF8FBD?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=C084FC&color=F9A8D4" alt="GitHub">
 </a>
+
 <a href="https://drive.google.com/file/d/1HIff9_C9sW1wrHdKjG7zAv_OWp-qT7jz/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-FF8FBD?style=flat-square&logo=googledrive&logoColor=white" alt="Resume">
+  <img src="https://img.shields.io/badge/RESUME-FFFFFF?style=for-the-badge&logo=googledrive&logoColor=C084FC&color=F9A8D4" alt="Resume">
 </a>
 
 </div>
 
-About
+<br>
 
-I'm Majd, a Software Engineering graduate who likes learning by building.
+```txt
+> whoami
 
-I enjoy working across different parts of software engineering, especially backend development, web applications, AI/ML, testing, and APIs.
+Majd Alsahafi
+Software Engineer
+Saudi Arabia
 
-I'm currently focused on building stronger projects, writing cleaner code, and getting better at designing software that actually makes sense beyond the demo.
+Interested in building useful software,
+understanding how systems work,
+and learning by actually making things.
+```
 
-Projects
+## `about_me`
 
-Hazem
+I'm a Software Engineering graduate who enjoys exploring different areas of technology rather than staying in one box.
 
-AI road-safety project focused on detecting dangerous driving behavior.2nd Place — Absher Challenge 2025
+I like working on software from different angles — writing backend logic, building interfaces, designing APIs, working with data, testing applications, and experimenting with AI.
 
-Rasid
+For me, the best way to learn something is to build with it, break it, fix it, and understand why it works.
 
-Traffic-violation detection system using YOLOv11, ONNX, Flutter, and Firebase.
+```javascript
+const mindset = {
+  learn: true,
+  build: true,
+  experiment: true,
+  improve: "always"
+};
+```
 
-Smart Traffic Violation & Risk Prediction System
+---
 
-A C++17 traffic-management project enhanced with a Python machine-learning model for risk prediction.
+## `interests`
 
-SkillsTrade
+```yaml
+software:
+  - Software Engineering
+  - Backend Development
+  - Full-Stack Development
+  - REST APIs
+  - System Design
 
-A full-stack peer skill-exchange platform built with JavaScript, PHP, MySQL, and AJAX.
+intelligence:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Data-Driven Applications
 
-View all repositories
+engineering:
+  - Software Testing
+  - Clean Architecture
+  - Automation
+  - DevOps
+  - CI/CD
+```
 
-Tech
+---
+
+## `tech_stack`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-FFF5FA?style=flat-square&logo=python&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/C++-FFF5FA?style=flat-square&logo=cplusplus&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/JavaScript-FFF5FA?style=flat-square&logo=javascript&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/TypeScript-FFF5FA?style=flat-square&logo=typescript&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/Java-FFF5FA?style=flat-square&logo=openjdk&logoColor=FF5FA2">
+### Languages
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart&theme=light" alt="Languages">
 
-<img src="https://img.shields.io/badge/Django-FFF5FA?style=flat-square&logo=django&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/Node.js-FFF5FA?style=flat-square&logo=nodedotjs&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/Express-FFF5FA?style=flat-square&logo=express&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/React-FFF5FA?style=flat-square&logo=react&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/Flutter-FFF5FA?style=flat-square&logo=flutter&logoColor=FF5FA2">
+<br><br>
 
-<br>
+### Web & Backend
 
-<img src="https://img.shields.io/badge/PostgreSQL-FFF5FA?style=flat-square&logo=postgresql&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/MySQL-FFF5FA?style=flat-square&logo=mysql&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/Firebase-FFF5FA?style=flat-square&logo=firebase&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/Docker-FFF5FA?style=flat-square&logo=docker&logoColor=FF5FA2">
-<img src="https://img.shields.io/badge/Git-FFF5FA?style=flat-square&logo=git&logoColor=FF5FA2">
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,react,redux,html,css,flutter&theme=light" alt="Web and Backend">
+
+<br><br>
+
+### Data
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" alt="Data and Databases">
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=light" alt="Engineering Tools">
 
 </div>
 
-Currently
+---
 
-Building C++ and Node.js projects
+## `current_status`
 
-Practicing backend development and API design
+```cpp
+struct CurrentStatus {
+    std::string learning  = "better software design";
+    std::string building  = "small practical projects";
+    std::string improving = "problem solving";
+    std::string exploring = "new technologies";
+};
+```
 
-Improving testing and software architecture skills
+I am currently focused on strengthening my fundamentals, building more complete projects, and becoming more comfortable designing software beyond just making it work.
 
-Exploring practical ML integrations
+---
 
-GitHub
+## `what_i_value`
+
+```txt
+01  clear thinking
+02  simple solutions
+03  readable code
+04  continuous learning
+05  good teamwork
+06  asking the right questions
+07  building things that are actually useful
+```
+
+---
+
+## `github_stats`
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Majd-sud&show_icons=true&hide_border=true&title_color=FF5FA2&icon_color=FF8FBD&text_color=555555&bg_color=FFFFFF"
-width="49%"
-alt="GitHub stats"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Majd-sud&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C084FC&text_color=6B7280&icon_color=F472B6"
+  alt="GitHub Statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majd-sud&layout=compact&hide_border=true&title_color=FF5FA2&text_color=555555&bg_color=FFFFFF"
-width="49%"
-alt="Top languages"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majd-sud&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C084FC&text_color=6B7280"
+  alt="Top Languages"
 />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="97%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Majd-sud&bg_color=ffffff&color=c084fc&line=f472b6&point=a855f7&area=true&area_color=fce7f3&hide_border=true&custom_title=Contribution%20Activity"
+  alt="GitHub Contribution Activity"
+/>
+
+</div>
+
+---
+
+## `connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/majd-alsahafi-/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=C084FC&color=F9A8D4" alt="LinkedIn">
+</a>
+
+<a href="https://my-portfolio-rho-navy.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=vercel&logoColor=C084FC&color=F9A8D4" alt="Portfolio">
+</a>
+
+<a href="https://github.com/Majd-sud">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=C084FC&color=F9A8D4" alt="GitHub">
+</a>
+
+<a href="https://drive.google.com/file/d/1HIff9_C9sW1wrHdKjG7zAv_OWp-qT7jz/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat-square&logo=googledrive&logoColor=C084FC&color=F9A8D4" alt="Resume">
+</a>
+
+<br><br>
+
+```txt
+open_to = [
+  "learning",
+  "collaboration",
+  "graduate opportunities",
+  "interesting problems"
+]
+```
 
 </div>
