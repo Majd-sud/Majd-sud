@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&height=70&lines=Majd+Alsahafi"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=70&lines=Majd+Alsahafi"
   alt="Majd Alsahafi"
 />
 
