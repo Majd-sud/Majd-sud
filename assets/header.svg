@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" rx="22" fill="#ffffff"/>
+  <text x="60" y="78" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#0969da">HELLO, I'M</text>
+  <text x="60" y="150" font-family="Verdana, Arial, sans-serif" font-size="56" font-weight="700" fill="#111111">MAJD ALSAHAFI 👋</text>
+  <text x="60" y="205" font-family="Verdana, Arial, sans-serif" font-size="24" fill="#57606a">Software Engineer • Curious Builder • Problem Solver</text>
+  <text x="60" y="252" font-family="Verdana, Arial, sans-serif" font-size="17" fill="#57606a">I enjoy turning ideas into useful, reliable and user-friendly software.</text>
+</svg>
