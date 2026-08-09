@@ -1,12 +1,12 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=70&lines=Majd+Alsahafi"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Majd+Alsahafi"
   alt="Majd Alsahafi"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=F472B6&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer;build+%2F+learn+%2F+improve"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer;build+%2F+learn+%2F+improve"
   alt="Software Engineer"
 />
 
