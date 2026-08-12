@@ -179,30 +179,6 @@ for area in areas:
     improve()
 ```
 
----
-
-## `github_activity`
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Majd-sud&hide_border=true&background=FFFFFF&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=F472B6&currStreakNum=A855F7&sideNums=A855F7&dates=9CA3AF"
-  width="58%"
-  alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Majd-sud&bg_color=ffffff&color=c084fc&line=f472b6&point=a855f7&area=true&area_color=fce7f3&hide_border=true&custom_title=Contribution%20Activity"
-  width="97%"
-  alt="GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
 ## `connect`
 
 <div align="center">
